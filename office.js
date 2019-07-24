@@ -13,3 +13,7 @@ function demonstrate() {
   var link= document.getElementById("20")
   
 }
+
+#characters {
+  width: 200px; 
+}
