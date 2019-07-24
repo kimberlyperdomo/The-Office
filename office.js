@@ -6,14 +6,17 @@ function hide() {
 function show() {
   var myGif = document.getElementById("2003");
   myGif.style.display = "block";
-
 }
 
-function demonstrate() {
-  var link= document.getElementById("20")
-  
+
+function enlarge(x) {
+  // window.alert("enlarge function called");
+  x.style.height= "400px";
 }
 
-#characters {
-  width: 200px; 
+function normal(x) {
+  // window.alert("normal function called");
+  x.style.height= "250px"
+
+
 }
