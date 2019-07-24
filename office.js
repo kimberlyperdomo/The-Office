@@ -8,3 +8,8 @@ function show() {
   myGif.style.display = "block";
 
 }
+
+function demonstrate() {
+  var link= document.getElementById("20")
+  
+}
