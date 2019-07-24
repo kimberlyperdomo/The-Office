@@ -1,13 +1,41 @@
-body {
-  background-color: orange;
-  color: black
-  font-family: "sans-serif";
+h1 {
+  font-family:'Trattatello';
+  font-size: 25px;
 }
 
+
+
+body {
+  background-color: orange;
+  color: black;
+  font-family: monospace;
+}
+
+p{
+  font-size: 30px
+
+}
 h2 {
-  font-size: 40px
+  font-size: 70px;
 }
 
 h3 {
-  font-size: 60px
+  font-size: 60px;
+}
+
+h4 {
+  font-size: 60px;
+}
+#characters {
+  width: 200px;
+}
+
+button {
+  font-size: 30px;
+
+}
+
+
+ul {
+  font-size: 25px;
 }
